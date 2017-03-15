@@ -2,10 +2,9 @@
 A visualization of the Lorenz System, written for Processing in Java.
 
 
-Original code by Daniel Shiffman, modified by James Trafny.
+Original code by Daniel Shiffman: http://thecodingtrain.com/
 
-
-http://patreon.com/codingtrain
+Modified by James Trafny: https://www.linkedin.com/in/jmtrafny/
 
 Video tutorial for base code: https://youtu.be/f0lkz2gSsIk
 
@@ -17,3 +16,5 @@ The Lorenz system is a system of ordinary differential equations first studied b
 It is notable for having chaotic solutions for certain parameter values and initial conditions. 
 In particular, the Lorenz attractor is a set of chaotic solutions of the Lorenz system which, when plotted,
 resemble a butterfly or figure eight.
+
+Support Mr. Shiffman!  http://patreon.com/codingtrain
