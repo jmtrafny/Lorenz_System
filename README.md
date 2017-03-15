@@ -2,14 +2,15 @@
 A visualization of the Lorenz System, written for Processing in Java.
 
 
-Original code by Daniel Shiffman
-Modified by James Trafny
-www.github.com/jmtrafny
+Original code by Daniel Shiffman, modified by James Trafny.
 
-http://codingtra.in
+
 http://patreon.com/codingtrain
+
 Video tutorial for base code: https://youtu.be/f0lkz2gSsIk
+
 Original code at: https://github.com/CodingTrain/Rainbow-Code/tree/master/challenges/CC_12_LorenzAttractor
+
 More information on the Lorenz System can be found at https://en.wikipedia.org/wiki/Lorenz_system
 
 The Lorenz system is a system of ordinary differential equations first studied by Edward Lorenz.
